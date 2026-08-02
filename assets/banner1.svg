@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 500">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#0b0d18">
+<animate attributeName="stop-color" values="#0b0d18;#181330;#0b0d18" dur="18s" repeatCount="indefinite"/>
+</stop>
+<stop offset="100%" stop-color="#2b1959"/>
+</linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="2"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+<path d="M36 0H0V36" stroke="#ffffff08" fill="none"/>
+</pattern>
+<linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#ffffff00"/>
+<stop offset="50%" stop-color="#c8b8ff55"/>
+<stop offset="100%" stop-color="#ffffff00"/>
+</linearGradient>
+</defs>
+
+<rect width="1500" height="500" fill="url(#bg)"/>
+<rect width="1500" height="500" fill="url(#grid)"/>
+
+<g opacity=".05"><line x1="0" y1="0" x2="1500" y2="0" stroke="#fff"/><line x1="0" y1="4" x2="1500" y2="4" stroke="#fff"/><line x1="0" y1="8" x2="1500" y2="8" stroke="#fff"/><line x1="0" y1="12" x2="1500" y2="12" stroke="#fff"/><line x1="0" y1="16" x2="1500" y2="16" stroke="#fff"/><line x1="0" y1="20" x2="1500" y2="20" stroke="#fff"/><line x1="0" y1="24" x2="1500" y2="24" stroke="#fff"/><line x1="0" y1="28" x2="1500" y2="28" stroke="#fff"/><line x1="0" y1="32" x2="1500" y2="32" stroke="#fff"/><line x1="0" y1="36" x2="1500" y2="36" stroke="#fff"/><line x1="0" y1="40" x2="1500" y2="40" stroke="#fff"/><line x1="0" y1="44" x2="1500" y2="44" stroke="#fff"/><line x1="0" y1="48" x2="1500" y2="48" stroke="#fff"/><line x1="0" y1="52" x2="1500" y2="52" stroke="#fff"/><line x1="0" y1="56" x2="1500" y2="56" stroke="#fff"/><line x1="0" y1="60" x2="1500" y2="60" stroke="#fff"/><line x1="0" y1="64" x2="1500" y2="64" stroke="#fff"/><line x1="0" y1="68" x2="1500" y2="68" stroke="#fff"/><line x1="0" y1="72" x2="1500" y2="72" stroke="#fff"/><line x1="0" y1="76" x2="1500" y2="76" stroke="#fff"/><line x1="0" y1="80" x2="1500" y2="80" stroke="#fff"/><line x1="0" y1="84" x2="1500" y2="84" stroke="#fff"/><line x1="0" y1="88" x2="1500" y2="88" stroke="#fff"/><line x1="0" y1="92" x2="1500" y2="92" stroke="#fff"/><line x1="0" y1="96" x2="1500" y2="96" stroke="#fff"/><line x1="0" y1="100" x2="1500" y2="100" stroke="#fff"/><line x1="0" y1="104" x2="1500" y2="104" stroke="#fff"/><line x1="0" y1="108" x2="1500" y2="108" stroke="#fff"/><line x1="0" y1="112" x2="1500" y2="112" stroke="#fff"/><line x1="0" y1="116" x2="1500" y2="116" stroke="#fff"/><line x1="0" y1="120" x2="1500" y2="120" stroke="#fff"/><line x1="0" y1="124" x2="1500" y2="124" stroke="#fff"/><line x1="0" y1="128" x2="1500" y2="128" stroke="#fff"/><line x1="0" y1="132" x2="1500" y2="132" stroke="#fff"/><line x1="0" y1="136" x2="1500" y2="136" stroke="#fff"/><line x1="0" y1="140" x2="1500" y2="140" stroke="#fff"/><line x1="0" y1="144" x2="1500" y2="144" stroke="#fff"/><line x1="0" y1="148" x2="1500" y2="148" stroke="#fff"/><line x1="0" y1="152" x2="1500" y2="152" stroke="#fff"/><line x1="0" y1="156" x2="1500" y2="156" stroke="#fff"/><line x1="0" y1="160" x2="1500" y2="160" stroke="#fff"/><line x1="0" y1="164" x2="1500" y2="164" stroke="#fff"/><line x1="0" y1="168" x2="1500" y2="168" stroke="#fff"/><line x1="0" y1="172" x2="1500" y2="172" stroke="#fff"/><line x1="0" y1="176" x2="1500" y2="176" stroke="#fff"/><line x1="0" y1="180" x2="1500" y2="180" stroke="#fff"/><line x1="0" y1="184" x2="1500" y2="184" stroke="#fff"/><line x1="0" y1="188" x2="1500" y2="188" stroke="#fff"/><line x1="0" y1="192" x2="1500" y2="192" stroke="#fff"/><line x1="0" y1="196" x2="1500" y2="196" stroke="#fff"/><line x1="0" y1="200" x2="1500" y2="200" stroke="#fff"/><line x1="0" y1="204" x2="1500" y2="204" stroke="#fff"/><line x1="0" y1="208" x2="1500" y2="208" stroke="#fff"/><line x1="0" y1="212" x2="1500" y2="212" stroke="#fff"/><line x1="0" y1="216" x2="1500" y2="216" stroke="#fff"/><line x1="0" y1="220" x2="1500" y2="220" stroke="#fff"/><line x1="0" y1="224" x2="1500" y2="224" stroke="#fff"/><line x1="0" y1="228" x2="1500" y2="228" stroke="#fff"/><line x1="0" y1="232" x2="1500" y2="232" stroke="#fff"/><line x1="0" y1="236" x2="1500" y2="236" stroke="#fff"/><line x1="0" y1="240" x2="1500" y2="240" stroke="#fff"/><line x1="0" y1="244" x2="1500" y2="244" stroke="#fff"/><line x1="0" y1="248" x2="1500" y2="248" stroke="#fff"/><line x1="0" y1="252" x2="1500" y2="252" stroke="#fff"/><line x1="0" y1="256" x2="1500" y2="256" stroke="#fff"/><line x1="0" y1="260" x2="1500" y2="260" stroke="#fff"/><line x1="0" y1="264" x2="1500" y2="264" stroke="#fff"/><line x1="0" y1="268" x2="1500" y2="268" stroke="#fff"/><line x1="0" y1="272" x2="1500" y2="272" stroke="#fff"/><line x1="0" y1="276" x2="1500" y2="276" stroke="#fff"/><line x1="0" y1="280" x2="1500" y2="280" stroke="#fff"/><line x1="0" y1="284" x2="1500" y2="284" stroke="#fff"/><line x1="0" y1="288" x2="1500" y2="288" stroke="#fff"/><line x1="0" y1="292" x2="1500" y2="292" stroke="#fff"/><line x1="0" y1="296" x2="1500" y2="296" stroke="#fff"/><line x1="0" y1="300" x2="1500" y2="300" stroke="#fff"/><line x1="0" y1="304" x2="1500" y2="304" stroke="#fff"/><line x1="0" y1="308" x2="1500" y2="308" stroke="#fff"/><line x1="0" y1="312" x2="1500" y2="312" stroke="#fff"/><line x1="0" y1="316" x2="1500" y2="316" stroke="#fff"/><line x1="0" y1="320" x2="1500" y2="320" stroke="#fff"/><line x1="0" y1="324" x2="1500" y2="324" stroke="#fff"/><line x1="0" y1="328" x2="1500" y2="328" stroke="#fff"/><line x1="0" y1="332" x2="1500" y2="332" stroke="#fff"/><line x1="0" y1="336" x2="1500" y2="336" stroke="#fff"/><line x1="0" y1="340" x2="1500" y2="340" stroke="#fff"/><line x1="0" y1="344" x2="1500" y2="344" stroke="#fff"/><line x1="0" y1="348" x2="1500" y2="348" stroke="#fff"/><line x1="0" y1="352" x2="1500" y2="352" stroke="#fff"/><line x1="0" y1="356" x2="1500" y2="356" stroke="#fff"/><line x1="0" y1="360" x2="1500" y2="360" stroke="#fff"/><line x1="0" y1="364" x2="1500" y2="364" stroke="#fff"/><line x1="0" y1="368" x2="1500" y2="368" stroke="#fff"/><line x1="0" y1="372" x2="1500" y2="372" stroke="#fff"/><line x1="0" y1="376" x2="1500" y2="376" stroke="#fff"/><line x1="0" y1="380" x2="1500" y2="380" stroke="#fff"/><line x1="0" y1="384" x2="1500" y2="384" stroke="#fff"/><line x1="0" y1="388" x2="1500" y2="388" stroke="#fff"/><line x1="0" y1="392" x2="1500" y2="392" stroke="#fff"/><line x1="0" y1="396" x2="1500" y2="396" stroke="#fff"/><line x1="0" y1="400" x2="1500" y2="400" stroke="#fff"/><line x1="0" y1="404" x2="1500" y2="404" stroke="#fff"/><line x1="0" y1="408" x2="1500" y2="408" stroke="#fff"/><line x1="0" y1="412" x2="1500" y2="412" stroke="#fff"/><line x1="0" y1="416" x2="1500" y2="416" stroke="#fff"/><line x1="0" y1="420" x2="1500" y2="420" stroke="#fff"/><line x1="0" y1="424" x2="1500" y2="424" stroke="#fff"/><line x1="0" y1="428" x2="1500" y2="428" stroke="#fff"/><line x1="0" y1="432" x2="1500" y2="432" stroke="#fff"/><line x1="0" y1="436" x2="1500" y2="436" stroke="#fff"/><line x1="0" y1="440" x2="1500" y2="440" stroke="#fff"/><line x1="0" y1="444" x2="1500" y2="444" stroke="#fff"/><line x1="0" y1="448" x2="1500" y2="448" stroke="#fff"/><line x1="0" y1="452" x2="1500" y2="452" stroke="#fff"/><line x1="0" y1="456" x2="1500" y2="456" stroke="#fff"/><line x1="0" y1="460" x2="1500" y2="460" stroke="#fff"/><line x1="0" y1="464" x2="1500" y2="464" stroke="#fff"/><line x1="0" y1="468" x2="1500" y2="468" stroke="#fff"/><line x1="0" y1="472" x2="1500" y2="472" stroke="#fff"/><line x1="0" y1="476" x2="1500" y2="476" stroke="#fff"/><line x1="0" y1="480" x2="1500" y2="480" stroke="#fff"/><line x1="0" y1="484" x2="1500" y2="484" stroke="#fff"/><line x1="0" y1="488" x2="1500" y2="488" stroke="#fff"/><line x1="0" y1="492" x2="1500" y2="492" stroke="#fff"/><line x1="0" y1="496" x2="1500" y2="496" stroke="#fff"/></g>
+<g stroke="#8d6cff88" fill="none">
+<path d="M40 40h120M40 40v120M1460 40h-120M1460 40v120M40 460h120M40 460v-120M1460 460h-120M1460 460v-120"/>
+</g>
+
+<!-- animated title -->
+<g opacity="0">
+<animate attributeName="opacity" values="0;0;1" dur="2s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate"
+values="-20 0;0 0" dur="2s" fill="freeze"/>
+
+<text x="90" y="125"
+font-family="Segoe UI, Inter, sans-serif"
+font-size="28"
+letter-spacing="4"
+fill="#A58BFF">
+HI THERE,
+</text>
+
+<text x="90" y="195"
+font-family="Segoe UI, Inter, sans-serif"
+font-size="64"
+font-weight="700"
+fill="white">
+I'm Aryan
+</text>
+
+<text x="90" y="235"
+font-family="JetBrains Mono, monospace"
+font-size="22"
+fill="#D8CBFF">
+Full-Stack Developer  •  ML / Deep Learning Enthusiast
+</text>
+
+<!-- blinking cursor -->
+<rect x="470" y="160" width="4" height="45" fill="#A58BFF">
+<animate attributeName="opacity"
+values="1;0;1"
+dur="1s"
+repeatCount="indefinite"/>
+</rect>
+</g>
+
+<!-- moving highlight -->
+<rect x="-350" y="70" width="280" height="190" fill="url(#scan)" opacity=".18">
+<animate attributeName="x" values="-350;900" dur="5s" begin="1.5s" repeatCount="indefinite"/>
+</rect>
+
+<!-- HUD -->
+<g transform="translate(1080 215)" filter="url(#glow)">
+<animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="120s" repeatCount="indefinite"/>
+<circle r="95" fill="none" stroke="#a58bff33"/>
+<circle r="70" fill="none" stroke="#a58bff55"/>
+<circle r="45" fill="none" stroke="#a58bff66"/>
+</g>
+
+<g stroke="#7b5cff" fill="none" filter="url(#glow)">
+<path d="M560 175H840"/>
+<path d="M840 175L985 215"/>
+<path d="M985 215H1015"/>
+<path d="M80 310H520L620 260"/>
+</g>
+
+<g fill="#fff">
+<circle cx="985" cy="215" r="3"><animate attributeName="r" values="2.5;4;2.5" dur="2.0s" repeatCount="indefinite"/></circle><circle cx="1045" cy="180" r="3"><animate attributeName="r" values="2.5;4;2.5" dur="2.4s" repeatCount="indefinite"/></circle><circle cx="1100" cy="230" r="3"><animate attributeName="r" values="2.5;4;2.5" dur="2.8s" repeatCount="indefinite"/></circle><circle cx="1155" cy="170" r="3"><animate attributeName="r" values="2.5;4;2.5" dur="3.2s" repeatCount="indefinite"/></circle><circle cx="1200" cy="240" r="3"><animate attributeName="r" values="2.5;4;2.5" dur="3.6s" repeatCount="indefinite"/></circle>
+</g>
+
+<path d="M0 425 C300 395 600 450 900 425 C1200 395 1400 445 1500 425"
+stroke="#8e72ff55" stroke-width="2" fill="none" stroke-dasharray="2 8">
+<animate attributeName="d"
+values="M0 425 C300 395 600 450 900 425 C1200 395 1400 445 1500 425;
+M0 435 C300 455 600 395 900 435 C1200 455 1400 395 1500 435;
+M0 425 C300 395 600 450 900 425 C1200 395 1400 445 1500 425"
+dur="10s" repeatCount="indefinite"/>
+</path>
+</svg>
