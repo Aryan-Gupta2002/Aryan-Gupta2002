@@ -1,7 +1,8 @@
 <div align="center">
 
-<!-- Animated typing banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hi%20There,%20I'm%20Aryan%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20ML%20%2F%20Deep%20Learning%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<p align="center">
+  <img src="assets/banner1.svg" width="100%" alt="Animated GitHub Banner">
+</p>
 
 <!-- Typing SVG tagline -->
 <a href="https://github.com/Aryan-Gupta2002">
