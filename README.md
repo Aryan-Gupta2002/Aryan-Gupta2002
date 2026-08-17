@@ -84,7 +84,7 @@ focus:
 | 👥 **[Study-Group-Finder-Manager](https://github.com/Aryan-Gupta2002/Study-Group-Finder-Manager)** | Full-stack app to create and manage student study groups | `Full Stack` `HTML` |
 | 🧠 **[Deep-Learning---Tensorflow](https://github.com/Aryan-Gupta2002/Deep-Learning---Tensorflow)** | A collection of deep learning projects and experiments | `Python` `TensorFlow` `Jupyter` |
 | 🔗 **[NodeJS-ExpressJS](https://github.com/Aryan-Gupta2002/NodeJS-ExpressJS)** | Backend playground covering MongoDB, Express, React & Next.js | `Node.js` `Express` `MongoDB` |
-| ⚛️ **[MERN-Projects-](https://github.com/Aryan-Gupta2002/MERN-Projects-)** | A set of foundational MERN stack projects | `MongoDB` `Express` `React` `Node` |
+| ⚛️ **[Pebbl-Website-Builder](https://github.com/Aryan-Gupta2002/Pebbl-Website-Builder)** | A Full-Stack automated website builder app using AI. | `Typescript` |
 | 🌐 **[Websites-and-Pages](https://github.com/Aryan-Gupta2002/Websites-and-Pages)** | Collection of websites & webpages with source material | `HTML` `CSS` |
 
 </div>
