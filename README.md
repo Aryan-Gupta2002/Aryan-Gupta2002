@@ -1,149 +1,214 @@
-<div align="center">
-
-<p align="center">
-  <img src="assets/banner1.svg" width="100%" alt="Animated GitHub Banner">
-</p>
-
-<!-- Typing SVG tagline -->
-<a href="https://github.com/Aryan-Gupta2002">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%A4%96+No+limits.;Building+with+the+MERN+Stack;Exploring+Deep+Learning+%26+LLMs;Always+shipping+something+new;&font=Fira+Code&center=true&width=520&height=45&color=764ba2&vCenter=true&size=22"/>
-</a>
-
-<br/>
-
-<!-- Socials -->
-<a href="https://github.com/Aryan-Gupta2002">
-  <img src="https://img.shields.io/badge/GitHub-Aryan--Gupta2002-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/aryangupta-upes/">
-  <img src="https://img.shields.io/badge/LinkedIn-Aryan%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Aryan-Gupta2002&label=Profile%20Views&color=764ba2&style=for-the-badge" alt="profile views"/>
-
-</div>
-
-<br/>
-
-## 🧭 About Me
-
-```yaml
-name: Aryan Gupta
-role: Software Developer | ML & Deep Learning Enthusiast          
-location: Dehradun, Uttarakhand, India
-education: UPES (University of Petroleum & Energy Studies)        
-focus:
-  - 🌐 Building full-stack apps with the MERN stack
-  - 🧠 Exploring Deep Learning with TensorFlow
-  - 🤖 Shipping LLM-powered applications
-  - 📚 Always learning, always building — "No limits."
-```
-
-<br/>
-
-## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="assets/banner1.svg" width="100%" alt="Aryan Gupta — GitHub Banner" />
 
-**Frameworks & Libraries**
-<br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <br/>
 
-**Database & Tools**
-<br/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <h1>Hey, I'm Aryan Gupta 👋</h1>
+
+  <h3>Full-Stack Developer • AI & LLM Applications • Backend Engineering</h3>
+
+  <p>
+    Building thoughtful software, experimenting with AI agents,
+    and turning ideas into working applications.
+  </p>
+
+  <p>
+    <a href="https://github.com/Aryan-Gupta2002">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://www.linkedin.com/in/aryangupta-upes/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=Aryan-Gupta2002&color=7C3AED&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  </p>
 
 </div>
 
-<br/>
+---
 
-## 🚀 Featured Projects
+## About Me
+
+I'm a **software developer and MCA student specializing in Artificial Intelligence** at **UPES, Dehradun**, graduating in 2027.
+
+I enjoy building full-stack applications, designing backend systems, and integrating AI into real-world products. My recent work focuses on **LLM-powered applications, autonomous agents, and developer tools**.
+
+- 🔭 Currently building **NavigoAI**, an autonomous browser agent.
+- 🚀 Working on **Pebbl**, an AI-powered website builder.
+- 🧠 Exploring **AI agents, LLM orchestration, and deep learning**.
+- ⚙️ Interested in **backend architecture, developer tooling, and automation**.
+- 🏆 **Top 5** at Udbhav'25 Emerging Technology Hackathon, among 120+ teams.
+- 🌱 Always learning, experimenting, and improving.
+- 💼 Open to **Software Engineering, Full-Stack, Backend, and AI Engineering** opportunities.
+
+> I like building things that solve problems, even when figuring out how to build them is the hardest part.
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-| Project | Description | Stack |
-|---|---|---|
-| 🏋️ **[React-Typescript-AI-Gym-Planner](https://github.com/Aryan-Gupta2002/React-Typescript-AI-Gym-Planner)** | Generates a personalized gym plan using an LLM | `TypeScript` `React` `LLM` |
-| 👥 **[Study-Group-Finder-Manager](https://github.com/Aryan-Gupta2002/Study-Group-Finder-Manager)** | Full-stack app to create and manage student study groups | `Full Stack` `HTML` |
-| 🧠 **[Deep-Learning---Tensorflow](https://github.com/Aryan-Gupta2002/Deep-Learning---Tensorflow)** | A collection of deep learning projects and experiments | `Python` `TensorFlow` `Jupyter` |
-| 🔗 **[NodeJS-ExpressJS](https://github.com/Aryan-Gupta2002/NodeJS-ExpressJS)** | Backend playground covering MongoDB, Express, React & Next.js | `Node.js` `Express` `MongoDB` |
-| ⚛️ **[Pebbl-Website-Builder](https://github.com/Aryan-Gupta2002/Pebbl-Website-Builder)** | A Full-Stack automated website builder app using AI. | `Typescript` |
-| 🌐 **[Websites-and-Pages](https://github.com/Aryan-Gupta2002/Websites-and-Pages)** | Collection of websites & webpages with source material | `HTML` `CSS` |
+### Languages
 
-</div>
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,html,css&theme=dark" alt="Languages" />
 
-<br/>
+### Frontend
 
-## 📊 GitHub Stats
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="Frontend" />
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aryan-Gupta2002&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=764ba2&icon_color=667eea&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Gupta2002&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=764ba2"/>
-</div>
+### Backend & Databases
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-Gupta2002&theme=radical&hide_border=true&background=0D1117&ring=764ba2&fire=667eea"/>
-</div>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,mysql&theme=dark" alt="Backend and Databases" />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Gupta2002&theme=react-dark&hide_border=true&bg_color=0D1117&color=764ba2&line=667eea&point=ffffff"/>
-</div>
+### AI, ML & Automation
+
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" alt="Machine Learning" />
 
 <br/>
 
-## 🐍 Contribution Snake
+**LLM APIs** · **AI Agents** · **Inngest AgentKit** · **Playwright** · **E2B Sandboxes**
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Aryan-Gupta2002/Aryan-Gupta2002/output/github-contribution-grid-snake-dark.svg"/>
-</div>
+### Tools & Development
 
-> ℹ️ The snake animation needs a one-time GitHub Action set up in this repo to generate automatically — see setup note at the bottom.
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark" alt="Development Tools" />
 
 <br/>
 
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/aryangupta-upes/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Aryan-Gupta2002">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-*"🤖 No limits."*
+**REST APIs** · **tRPC** · **Turborepo** · **GSAP** · **Jupyter Notebook**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" width="100%"/>
+---
 
-<!--
-SETUP NOTES (delete this comment once done):
-1. Snake animation: add the "Snk" GitHub Action to a repo named exactly "Aryan-Gupta2002"
-   (a special repo matching your username) so it auto-generates on your profile.
-   Guide: https://github.com/Platane/snk
-2. github-readme-stats / streak-stats / activity-graph are live public services —
-   they'll auto-update with your real numbers once this file is pushed, no action needed.
-3. Swap out placeholder text in the "About Me" yaml block with your real headline,
-   degree, and graduation year from LinkedIn.
--->
+## Featured Projects
+
+### 01 — Pebbl | AI-Powered Website Builder
+
+**Full-stack application powered by autonomous coding agents.**
+
+An AI-powered website builder that explores how LLM agents can generate, modify, and validate application code inside isolated development environments.
+
+**Highlights**
+- Built with Next.js, TypeScript, and PostgreSQL.
+- Integrated Inngest AgentKit for AI-driven workflows.
+- Used E2B sandboxes for isolated code execution.
+- Implemented build verification and iterative repair workflows.
+- Designed full-stack application features with tRPC.
+
+**Stack:** `Next.js` `TypeScript` `React` `PostgreSQL` `tRPC` `Inngest AgentKit` `E2B`
+
+[View Repository](https://github.com/Aryan-Gupta2002/Pebbl-Website-Builder)
+
+---
+
+### 02 — NavigoAI | Autonomous Browser Agent
+
+**An experimental AI agent that interacts with the web through browser automation.**
+
+A modular TypeScript-based browser agent that uses LLM reasoning and structured browser observations to decide and execute actions.
+
+**Highlights**
+- Built browser automation using Playwright.
+- Developed a DOM extraction layer for interactive elements.
+- Implemented structured LLM-driven action selection.
+- Created an iterative observe → reason → act workflow.
+- Organized the codebase as a Turborepo monorepo.
+
+**Stack:** `TypeScript` `Node.js` `Playwright` `LLM APIs` `Turborepo`
+
+[View Repository](https://github.com/Aryan-Gupta2002/NavigoAI)
+
+---
+
+### 03 — GymAI | AI Workout Planner
+
+**Personalized workout planning using large language models.**
+
+An AI-powered fitness application that generates workout plans based on user requirements and fitness goals.
+
+**Highlights**
+- Built an interactive React and TypeScript interface.
+- Integrated LLM-powered workout plan generation.
+- Focused on personalized user inputs and practical AI integration.
+
+**Stack:** `React` `TypeScript` `LLM APIs`
+
+[View Repository](https://github.com/Aryan-Gupta2002/React-Typescript-AI-Gym-Planner)
+
+---
+
+### 04 — Study Group Finder & Manager
+
+**Full-stack platform for creating and managing student study groups.**
+
+A student collaboration application with authentication, access control, and relational database operations.
+
+**Highlights**
+- Implemented JWT-based authentication and password hashing.
+- Developed role-based access control.
+- Worked with MySQL transactions and triggers.
+- Built functionality for organizing and managing study groups.
+
+**Stack:** `JavaScript` `MySQL` `JWT` `REST APIs`
+
+[View Repository](https://github.com/Aryan-Gupta2002/Study-Group-Finder-Manager)
+
+---
+
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Aryan-Gupta2002&show_icons=true&hide_border=true&theme=tokyonight"
+    height="170"
+    alt="GitHub Statistics"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Gupta2002&layout=compact&hide=jupyter%20notebook&langs_count=8&hide_border=true&theme=tokyonight"
+    height="170"
+    alt="Most Used Languages"
+  />
+
+</div>
+
+
+---
+
+## Beyond Code
+
+When I'm not working on software, you'll probably find me:
+
+- 🚴 Cycling and exploring new routes.
+- 🏔️ Trekking and spending time outdoors.
+- 🧪 Experimenting with new developer tools and AI technologies.
+- 💡 Thinking about interesting products and side-project ideas.
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+  <p>
+    I'm always interested in interesting projects, engineering opportunities,
+    and conversations about software and AI.
+  </p>
+
+  <a href="https://www.linkedin.com/in/aryangupta-upes/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://github.com/Aryan-Gupta2002">
+    <img src="https://img.shields.io/badge/Explore_my_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <br/><br/>
+
+  <i>Keep building. Keep learning. No limits.</i>
+
+</div>
